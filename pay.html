@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Normalice CSS -->
+    <link rel="stylesheet" href="./styles/normalize.css">
+    <link rel="stylesheet" href="./styles/main.css">
+    <title>Reto Ecommerce</title>
+</head>
+<body>
+
+    <header>
+        <nav class="nav">
+            <a href="./index.html" class="nav-links">Home</a>
+            <a href="./products.html" class="nav-links">Productos</a>
+        </nav>
+        <div class="header-cart">
+            <a href="./cart.html" class="nav-cart">
+                <span class="nav-cart-number" id="number-items-cart"></span>
+                <img src="./images/shopping-cart.png" alt="Carrito" class="nav-cart-image">
+            </a>
+        </div>
+    </header>
+
+    <article>
+        <div class="divPay" id="divPay">
+            <h3 class="pay-title">Información de Pago</h3>
+            <form id="form-buy">
+                <input type="text" class="form-input-buy" name="name" id="name" placeholder="Nombre Completo" required>
+                <input type="mail" class="form-input-buy" name="email" id="email" placeholder="Correo Electrónico" required>
+                <input type="text" class="form-input-buy" name="card" id="cardNumber" placeholder="Número de Tarjeta" required>
+                <div class="input-group-buy">
+                    <input type="text" class="form-input-buy form-expirated" name="expirated" id="cardExpirated" placeholder="F. Vencimiento MM/AA" required>
+                    <input type="text" class="form-input-buy form-number" name="cvv" id="cardCVV" placeholder="CVV" maxlength="3" required>
+                </div>
+                <input type="submit" class="form-submit-buy" value="PAGAR">
+            </form>
+        </div>
+    </article>
+
+    <footer>
+        <span class="footer-text">Desarrollado por Mailer M. para Academia Geek</span>
+        <div class="footer-socials">
+            <a class="footer-socials-links" target="_blank" href="https://facebook.com">Facebook</a>
+            <a class="footer-socials-links" target="_blank" href="https://instagram.com">Instagram</a>
+        </div>
+    </footer>
+    
+    <script src="./App.js" type="module"></script>
+</body>
+</html>

@@ -1,0 +1,68 @@
+{
+    "products" : [
+        {
+            "id": "1",
+            "category": "cuidado-hogar",
+            "name": "Trapero de Micro Fibra",
+            "image": "https://www.aldusaseo.com/images/stories/virtuemart/product/trapeadora-microfibra-250gr-F225015-aldus.jpg",
+            "price": "7000",
+            "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Delectus cum, modi commodi ab tenetur adipisci natus ut autem, veniam quo totam aut illo a porro rem possimus dolorum asperiores voluptate."
+        },
+        {
+            "id": "2",
+            "category": "cuidado-ropa",
+            "name": "Detergente Líquido",
+            "image": "https://www.kipclin.com/images/virtuemart/product/KIP-BRS-100340008.jpg",
+            "price": "3000",
+            "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Delectus cum, modi commodi ab tenetur adipisci natus ut autem, veniam quo totam aut illo a porro rem possimus dolorum asperiores voluptate."
+        },
+        {
+            "id": "3",
+            "category": "cuidado-hogar",
+            "name": "Limpia Pisos",
+            "image": "https://metrocolombiafood.vteximg.com.br/arquivos/ids/274186-1000-1000/7702010225123.jpg",
+            "price": "4500",
+            "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Delectus cum, modi commodi ab tenetur adipisci natus ut autem, veniam quo totam aut illo a porro rem possimus dolorum asperiores voluptate."
+        },
+        {
+            "id": "4",
+            "category": "cuidado-ropa",
+            "name": "Suavizante Tal Marca",
+            "image": "https://www.agenciafuller.com/wp-content/uploads/2019/02/Suavizante-ropa-3-litros-barranquilla.jpg",
+            "price": "3000",
+            "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Delectus cum, modi commodi ab tenetur adipisci natus ut autem, veniam quo totam aut illo a porro rem possimus dolorum asperiores voluptate."
+        },
+        {
+            "id": "5",
+            "category": "cuidado-hogar",
+            "name": "Escoba barre todo",
+            "image": "https://www.kipclin.com/images/virtuemart/product/KIP-NEGR-EP92.jpg",
+            "price": "5500",
+            "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Delectus cum, modi commodi ab tenetur adipisci natus ut autem, veniam quo totam aut illo a porro rem possimus dolorum asperiores voluptate."
+        },
+        {
+            "id": "6",
+            "category": "cuidado-ropa",
+            "name": "Cloro Límpido",
+            "image": "https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3502989-750-750/7702137636864.jpg",
+            "price": "2000",
+            "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Delectus cum, modi commodi ab tenetur adipisci natus ut autem, veniam quo totam aut illo a porro rem possimus dolorum asperiores voluptate."
+        },
+        {
+            "id": "7",
+            "category": "cuidado-hogar",
+            "name": "Limpia Vidrios",
+            "image": "https://www.agenciafuller.com/wp-content/uploads/2018/12/Limpia-vidrios-pistola-precio.jpg",
+            "price": "3000",
+            "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Delectus cum, modi commodi ab tenetur adipisci natus ut autem, veniam quo totam aut illo a porro rem possimus dolorum asperiores voluptate."
+        },
+        {
+            "id": "8",
+            "category": "cuidado-ropa",
+            "name": "Jabón en Barra Tal",
+            "image": "https://www.papeleriaalba.com/wp-content/uploads/2019/02/JABON-ROPA-PURO-AZUL-235GR-008376.jpg",
+            "price": "2200",
+            "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Delectus cum, modi commodi ab tenetur adipisci natus ut autem, veniam quo totam aut illo a porro rem possimus dolorum asperiores voluptate."
+        }
+    ]
+}

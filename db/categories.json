@@ -1,0 +1,14 @@
+{
+    "categories" : [
+        {
+            "id": "cuidado-hogar",
+            "name": "Cuidado del Hogar",
+            "image": "https://www.sgs.co/-/media/global/images/structural-website-images/hero-images/hero-detergent-in-a-bucket.jpg"
+        },
+        {
+            "id": "cuidado-ropa",
+            "name": "Cuidado de la ropa",
+            "image": "https://consejos.disfrutabox.com/wp-content/uploads/2019/08/foto-destacada-ropa-limpia.jpg"
+        }
+    ]
+}

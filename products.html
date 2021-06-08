@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Normalice CSS -->
+    <link rel="stylesheet" href="./styles/normalize.css">
+    <link rel="stylesheet" href="./styles/main.css">
+    <title>Reto Ecommerce</title>
+</head>
+<body>
+
+    <header>
+        <nav class="nav">
+            <a href="./index.html" class="nav-links">Home</a>
+            <a href="./products.html" class="nav-links">Productos</a>
+        </nav>
+        <div class="header-cart">
+            <a href="./cart.html" class="nav-cart">
+                <span class="nav-cart-number" id="number-items-cart"></span>
+                <img src="./images/shopping-cart.png" alt="Carrito" class="nav-cart-image">
+            </a>
+        </div>
+    </header>
+
+    <article>
+        <div class="container-products">
+            <aside class="nav-categories" id="nav-categories">
+                <!-- This is loaded from Javascript -->
+            </aside>
+            <section class="list-products" id="list-products">
+                <!-- Products are loades from Javascript -->
+            </section>
+        </div>
+    </article>
+    
+    <footer>
+        <span class="footer-text">Desarrollado por Mailer M. para Academia Geek</span>
+        <div class="footer-socials">
+            <a class="footer-socials-links" target="_blank" href="https://facebook.com">Facebook</a>
+            <a class="footer-socials-links" target="_blank" href="https://instagram.com">Instagram</a>
+        </div>
+    </footer>
+    
+    <script src="./App.js" type="module"></script>
+</body>
+</html>
