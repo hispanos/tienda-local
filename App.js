@@ -2,7 +2,7 @@ import Category from './js/Category.js';
 import Cart from './js/Cart.js';
 import Product from './js/Product.js';
 import MaskInputs from './js/maskInputs.js';
-//import Pay from './js/Pay.js';
+import Pay from './js/Pay.js';
 
 const category = new Category();
 const cart = new Cart();
